@@ -5,17 +5,17 @@ in this i wrote a code which converts string into star pattern
 in this when u run all 3 codes it shows three option 
 the first one is Next-line
 i.e
-h
-e
-l
-l
-o
-
-w
-o
-r
-l
-d
+h\
+e\
+l\
+l\
+o\
+\
+w\
+o\
+r\
+l\
+d\
 
 the second one in the same line
 i.e is star format
