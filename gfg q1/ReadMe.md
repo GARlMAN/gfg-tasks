@@ -4,7 +4,7 @@ in this i wrote a code which converts string into star pattern
 # overview 
 in this when u run all 3 codes it shows three option 
 the first one is Next-line
-i.e
+i.e\
 h\
 e\
 l\
@@ -15,7 +15,7 @@ w\
 o\
 r\
 l\
-d\
+d
 
 the second one in the same line
 i.e is star format
